@@ -88,8 +88,8 @@ Online learning platforms have thousands of courses but no map. You search "how 
 
 ```bash
 # Clone the repository
-git clone https://github.com/Bhagyansh07/AI-Learning-Path-Recommender.git
-cd AI-Learning-Path-Recommender/frontend
+git clone https://github.com/vaibhavsrv/LearnPath_AI.git
+cd LearnPath_AI/frontend
 
 # Install dependencies
 npm install

@@ -242,7 +242,7 @@ submitFeedback("machine-learning", "easy", 40);
 ### 1. Get the code
 Download and unzip `LearnPath-AI-Source-Code.zip`, or clone:
 ```
-git clone https://github.com/Bhagyansh07/AI-Learning-Path-Recommender.git
+git clone https://github.com/vaibhavsrv/LearnPath_AI.git
 ```
 
 ### 2. Run the frontend (the main app)
