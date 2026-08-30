@@ -1,4 +1,4 @@
-﻿# Solution Documentation — LearnPath AI
+# Solution Documentation — LearnPath AI
 
 > HCLTech AMPlified 2025 · Round 2 · Team NightCoders · JECRC University
 
@@ -223,7 +223,7 @@ submitFeedback("machine-learning", "easy", 40);
 
 | Member | Role | Email |
 |--------|------|-------|
-| Bhagyansh Chandel | Full Stack + AI/ML Engine | bhagyanshchandel3567@gmail.com |
+| Rounak Mishra | Full Stack + AI/ML Engine | rounakmishra06@gmail.com |
 | Varun Jain | Team Lead, Backend & ML | varunjain2409@gmail.com |
 | Prashant Sharma | Frontend & UX | prashantsharma.ai28@jecrc.ac.in |
 | Raghav Gupta | Data & Testing | raghav.23bcon1939@jecrcu.edu.in |

@@ -38,7 +38,7 @@ const CONTENT = {
           <P>You may clear your locally stored data at any time through your browser settings, which removes all learner data we have stored on your device.</P>
         </Section>
         <Section h="5. Contact">
-          <P>For privacy questions, contact the team at <b>bhagyanshchandel3567@gmail.com</b>.</P>
+          <P>For privacy questions, contact the team at <b>varunjain2409@gmail.com</b>.</P>
         </Section>
       </>
     ),
@@ -103,7 +103,7 @@ const CONTENT = {
           </Ul>
         </Section>
         <Section h="Feedback">
-          <P>If you encounter accessibility issues, please contact bhagyanshchandel3567@gmail.com.</P>
+          <P>If you encounter accessibility issues, please contact varunjain2409@gmail.com.</P>
         </Section>
       </>
     ),
@@ -138,7 +138,7 @@ const CONTENT = {
           </Ul>
         </Section>
         <Section h="Reporting">
-          <P>Report security concerns to bhagyanshchandel3567@gmail.com.</P>
+          <P>Report security concerns to varunjain2409@gmail.com.</P>
         </Section>
       </>
     ),
@@ -158,7 +158,7 @@ const CONTENT = {
           <P>Use the Dashboard to view overall progress, skill readiness and milestones. Mark courses complete to update your progress bar.</P>
         </Section>
         <Section h="Still need help?">
-          <P>Contact the team at bhagyanshchandel3567@gmail.com.</P>
+          <P>Contact the team at varunjain2409@gmail.com.</P>
         </Section>
       </>
     ),
