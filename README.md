@@ -13,7 +13,7 @@
 
 [Live Demo](https://frontend-mu-jet-18.vercel.app) · [Documentation](./docs/documentation.md) · [Video Demo](#)
 
-</div>
+</div>. 
 
 ---
 
